@@ -1,0 +1,140 @@
+body{
+  font-size: 12px;
+}
+#navbar h1{
+  float: none;
+  text-align: center;
+  padding: 20px 0px ;
+  font-size: 20px;
+}
+
+#navbar ul{
+  float: none;
+  /* padding: 20px; */
+  list-style-type: none;
+}
+#navbar ul li{
+  float: none;
+   
+}
+
+#navbar ul li a{
+  padding: 15px;
+  display: block;
+  text-align: center;
+  font-size: 12px;
+}
+
+/* Showcase */
+#showcase{
+  background: url("../img/pexels-markus-spiske-26139.jpg")no-repeat center center/cover;
+  text-align: center;
+  padding: 0px 0px;
+  color:black;
+ 
+}
+
+#showcase .showcase-content h1{
+  font-size: 34px;
+  line-height: 1.8em;
+}
+
+#showcase .showcase-content p{
+  padding: 0px 0px 50px;
+  font-size: 12px;
+}
+
+.btn{
+  display: inline-block;
+  font-size: 10px;
+  color: #fff;
+  background: #333;
+  
+  padding: 13px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Home Info */
+#home-info .info-img {
+  background: url('../img/photo-1.jpg') no-repeat;
+  width: 100%;
+  min-height: 100%;
+  float: none;
+  display: none;
+} 
+
+#home-info .info-content{
+  width: 100%;
+  min-height: 100%;
+  float: none;
+  text-align: center;
+  padding: 40px 50px;
+}
+
+#features .box{
+  width: 100%;
+  text-align: center;
+  float: none;
+  padding: 35px;
+}
+
+/* About */
+#about-info{
+  padding:20px 0px 0px;
+}
+#about-info .about-left{
+  float: left;
+  width: 60%;
+  min-height: 100%;
+}
+#about-info .about-left h1{
+  font-size: 20px;
+  text-align: center;
+}
+
+#about-info .about-right img{
+  display: inline;
+  margin: 120px 0px;
+
+  width: 100px;
+  height: 200px;
+}
+
+#testimonials h1 {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+}
+
+#testimonials .test-box {
+  margin: 20px;
+  height: 200px;
+  padding: 25px 50px ;
+  font-size: 14px;
+}
+
+#testimonials img{
+  width: 50px;
+  border-radius: 50%;
+  height: 50px;
+  float: left;
+  margin-right: 10px;
+}
+
+/* Contact */
+#contact h1{
+  margin-top: 30px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.btn{
+  width: 100%;
+  text-align: center;
+}
+.container{
+  font-size: 16px;
+}
